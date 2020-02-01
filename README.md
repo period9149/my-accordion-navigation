@@ -7,7 +7,7 @@ Here are the main points：
 
  - Use the genericons library provided by BootCDN
  - Perform style conversion by using pseudo-classes（hover） and pseudo-elements（before & after）
- - With the @media query, define different styles for different media types.
+ - With the @media query, define different styles for different media types
 
 Thanks for watching !
 
