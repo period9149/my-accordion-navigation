@@ -1,7 +1,7 @@
 # my-accordion-navigation
 An accordion-like navigation bar with a responsive layout that automatically adjusts styles based on page width changes.
 
-#### This is a web page component composed of pure HTML and CSS, plus some small icons provided by the genericons library，and established navigation bar for some well-known websites including Github, Facebook.
+#### This is a web page component composed of pure HTML and CSS, plus some small icons provided by the genericons library，and established navigation bar for some well-known websites including Github.
 
 Here are the main points：
 
